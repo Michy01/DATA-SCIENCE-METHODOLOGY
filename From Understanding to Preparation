@@ -1,0 +1,36 @@
+#From Understanding to Preparation
+
+## 1.Question 1
+The Data Understanding stage refers to the stage of removing redundant data.
+True
+<b>False</b> Correct.
+
+2.Question 2
+In the case study, working through the Data Preparation stage, it was revealed that the initial definition was not capturing all of the congestive heart failure admissions that were expected, based on clinical experience.
+True
+<b>False</b> Correct.
+Correct. It was working through the Data Understanding staging that the initial definition was found to be incomplete.
+1 / 1 point
+
+3.Question 3
+Select the correct statement about the Data Preparation stage.
+The Data Preparation stage involves addressing missing values.
+The Data Preparation stage involves correcting invalid values and addressing outliers.
+The Data Preparation stage involves removing duplicate data.
+The Data Preparation stage involves properly formatting the data.
+<b> All of the above statements are correct.</b>
+Correct 1 / 1 point
+
+4.Question 4
+During the Data Preparation stage, clients and stakeholders aggregate the data and merge them from different sources, enabling data scientists to use clean data in the analysis.
+True
+<b>False </b>
+Incorrect
+Incorrect. Data scientists aggregate the data themselves and merge them from different sources, not the clients or stakeholders.
+0 / 1 point
+
+5.Question 5
+The Data Preparation stage is a very iterative and complicated stage that cannot be accelerated through automation.
+True
+<b> False </b>
+Correct
